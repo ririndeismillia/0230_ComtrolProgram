@@ -13,6 +13,11 @@ string Status_lulus(float r){
 }
 
 int main(){
-    float milB1,nilMT,rerata;
+    float nilBI,nilMT,rerata;
     string status;
+
+    cout <<"Masukkan nilai Bahasa Inggris = ";
+    cin >> nilBI;
+    cout <<"Masukkan nilai Matematika = ";
+    cin >> nilMT;
 }
